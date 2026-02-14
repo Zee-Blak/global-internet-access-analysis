@@ -83,3 +83,6 @@ This project is released under the MIT License (see LICENSE file).
 Created as part of my data analytics portfolio.  
 Connect with me to follow more projects!
 
+## 🔗 Project Links
+- Medium Article: https://medium.com/@tavershimadzenda5/breaking-down-global-internet-access-with-r-identifying-the-best-markets-for-satellite-internet-b8ac32451798
+
